@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development & Cloud Computing
 - 🌱 I’m currently learning React and DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: carpediem212045@gmail.comgmail.com
+- 📫 How to reach me email: carpediem212045@gmail.com
 
 <!---
 rohits05/rohits05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
