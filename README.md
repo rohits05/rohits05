@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rohits05
-- 👀 I’m interested in Web and Andriod Dev, Data analysis.
-- 😁 Hello guys after some months I think I am ready to participate in this vast developer world hope to learn many things and can participate with all of you in open source community wish me luck guys.
-- 🌱 I’m currently working on new technologies and passionate to solve real world problems.
-
+- 👀 I’m interested in Development & Cloud Computing
+- 🌱 I’m currently learning React and DSA
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me email: carpediem212045@gmail.comgmail.com
 
 <!---
 rohits05/rohits05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
