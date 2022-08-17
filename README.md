@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="60" height="65" />I’m @rohits05 </p>
+# <p align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="80" height="85" />I’m @rohits05 </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohits05&label=Profile%20views&color=0e75b6&style=flat" alt="rohits05" /> </p>
