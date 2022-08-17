@@ -22,6 +22,7 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 - Frameworks: &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
@@ -32,6 +33,9 @@
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql) -->
+- Libraries: &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+<!--   ![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)  -->
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
