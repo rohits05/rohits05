@@ -87,7 +87,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <table style="width:100%">
   <tr>
-    <td> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=rohits05&show_icons=true&theme=tokyonight&count_private=true" alt="rohits05" /> &nbsp; &nbsp; &nbsp;</td>
+    <td> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=rohits05&show_icons=true&theme=tokyonight&count_private=false" alt="rohits05" /> &nbsp; &nbsp; &nbsp;</td>
    &nbsp; &nbsp; <td> &nbsp; &nbsp; &nbsp; <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohits05&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"> &nbsp; &nbsp; &nbsp;
 </td> 
 
