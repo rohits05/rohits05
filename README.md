@@ -85,6 +85,7 @@
 <hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
+<details>
 <table style="width:100%">
   <tr>
     <td> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=rohits05&show_icons=true&theme=tokyonight&count_private=false" alt="rohits05" /> &nbsp; &nbsp; &nbsp;</td>
@@ -107,7 +108,7 @@
 <!-- **⚙🏆 &nbsp;Trophies**
 <br> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohits05&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy) 
-
+</details>
 <hr>
 <!-- <br> -->
 <div align="center">
