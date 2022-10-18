@@ -1,4 +1,4 @@
-<img height="370px" width="1400px" alt="GIF" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" />
+<img height="300px" width="1400px" alt="GIF" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" />
 
 # <p align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="80" height="85" />I’m @rohits05 </p>
 
