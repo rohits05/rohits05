@@ -20,7 +20,7 @@ Apart from that, I like to play games and watch webisode🕸️.
 <code><img height="20" alt="express" src="https://img.shields.io/badge/-Express-333333?style=flat&logo=expressjs"></code>
 <code><img height="20" alt="git" src="https://img.shields.io/badge/Git-333333?style=flat&logo=git"></code>
 <code><img height="20" alt="aws" src="https://img.shields.io/badge/AWS-333333?style=flat&logo=caws"></code>
-<code><img height="20" alt="openai" src="https://img.shields.io/badge/-OPenAI-333333?style=flat&logo=openai"></code>
+<code><img height="20" alt="openai" src="https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai"></code>
 <code><img height="20" alt="typescript" src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" > </code>
 
 <details>
