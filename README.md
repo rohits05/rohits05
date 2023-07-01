@@ -13,17 +13,15 @@ Apart from that, I like to play games and watch webisode🕸️.
 <br />
 <code><img height="20" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC"></code>
 <code><img height="20" alt="react" src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></code>
-<code><img height="20" alt="express" src="https://img.shields.io/badge/-Express-333333?style=flat&logo=expressjs"></code>
 <code><img height="20" alt="node" src="https://img.shields.io/badge/Nodejs-333333?style=flat&logo=nodejs"></code>
+<code><img height="20" alt="mongodb" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb"></code>
 <code><img height="20" alt="graphql" src="https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs"></code>
 <code><img height="20" alt="nodejs" src="https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql"></code>
+<code><img height="20" alt="express" src="https://img.shields.io/badge/-Express-333333?style=flat&logo=expressjs"></code>
 <code><img height="20" alt="git" src="https://img.shields.io/badge/Git-333333?style=flat&logo=git"></code>
-<code><img height="20" alt="tailwind" src="https://img.shields.io/badge/Tailwind-333333?style=flat&logo=tailwind" > </code>
+<code><img height="20" alt="aws" src="https://img.shields.io/badge/AWS-333333?style=flat&logo=caws"></code>
 <code><img height="20" alt="openai" src="https://img.shields.io/badge/-OPenAI-333333?style=flat&logo=openai"></code>
 <code><img height="20" alt="typescript" src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" > </code>
-<code><img height="20" alt="cloudinary" src="https://img.shields.io/badge/Cloudinary-333333?style=flat&logo=cloudinary"></code>
-<code><img height="20" alt="mongodb" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb"></code>
-<code><img height="20" alt="aws" src="https://img.shields.io/badge/AWS-333333?style=flat&logo=caws"></code>
 
 <details>
   
