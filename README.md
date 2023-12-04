@@ -1,41 +1,44 @@
-<!-- <img height="345px" width="1000px" alt="GIF" src="https://media.giphy.com/media/sOkEDFAdHCDRK/giphy.gif" /> -->
+# <p align="center"> "ᗴ᙭ᑭᒪOᖇᗴ [ꋪꂦꀍꀤ꓄ ꌚꀍꍏꅐ](https://rohits05.vercel.app/)'Տ ᖇᗴᗩᒪᗰ" </p>   
+<!-- ##### <p align='center'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?right=true&color=D3D3DD&lines=A̺͆n̺͆+E̺͆n̺͆g̺͆i̺͆n̺͆e̺͆e̺͆r̺͆+i̺͆n̺͆+m̺͆a̺͆k̺͆i̺͆n̺͆g̺͆!+;)](https://git.io/typing-svg)  </p> -->
 
-# <p align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="55" height="56" />𝙸'𝚖 [ℛℴ𝒽𝒾𝓉](https://rohits05.vercel.app/)! </p> 
+## **🌐 Initializing Stark Industries Protocol: Engineering, Just Like Tony Stark!**
 
-##### <p align='center'> &nbsp; &nbsp; &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?right=true&color=D3D3DD&lines=A+Passionate+Developer+from+India+🇮🇳+❤;)](https://git.io/typing-svg) </p>
+💥 **Superpower Stack:**
+- **Languages:** Jarvis... I mean, Java, JavaScript, Go, HTML, CSS, SQL.
+- **Frameworks:** React, Node.js, Express, Next.js - the weapons in my arsenal.
+- **Armored Databases:** Mastered the art of handling MongoDB, Postgres, and MySQL.
+- **Tools/Platforms:** Skilled in wielding Git, GitHub, and AWS.
 
-~ Another 22 y/o lad pursuing Computer Science from [MCKVIE](http://www.mckvie.edu.in/).
-* 🌱 Cloud applications, System design, DSA, and Development.
-* 🤔 Build technologies that increase the cumulative density of magic in the world! 
+⚡ **Achievements Assembled:**
+- LeetMaster: Consistently rated at 3.5 stars, showcasing my problem-solving acumen.
+- Code Avenger: Conquered the Meta Hacker Cup, Code Jam, and GeeksforGeeks with global ranks and a 2600+ Coding Score.
+- Hacktoberfest '22: A top contributor among the #14 HackSquad teams, aiding open-source initiatives.
 
-Apart from that, I like to play games and watch webisode🕸️.
-<br />
-<br />
-<code><img height="20" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC"></code>
-<code><img height="20" alt="react" src="https://img.shields.io/badge/-React-333333?style=flat&logo=react"></code>
-<code><img height="20" alt="node" src="https://img.shields.io/badge/Nodejs-333333?style=flat&logo=nodejs"></code>
-<code><img height="20" alt="mongodb" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb"></code>
-<code><img height="20" alt="graphql" src="https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs"></code>
-<code><img height="20" alt="nodejs" src="https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql"></code>
-<code><img height="20" alt="express" src="https://img.shields.io/badge/-Express-333333?style=flat&logo=expressjs"></code>
-<code><img height="20" alt="git" src="https://img.shields.io/badge/Git-333333?style=flat&logo=git"></code>
-<code><img height="20" alt="aws" src="https://img.shields.io/badge/AWS-333333?style=flat&logo=caws"></code>
-<code><img height="20" alt="openai" src="https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai"></code>
-<code><img height="20" alt="typescript" src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" > </code>
+## 📫 Suit Up and Connect
+
+- **Let's build the next-gen tech together:** [rohit.shx14@gmail.com](mailto:rohit.shx14@gmail.com)
+
+## 🕸️ Tech Holopins and GitHub Analytics
 
 <details>
+  <summary>🌟 Holopin Board: HackToBerFest Holopins</summary>
   
-###### <p align='center'> HackToBerFest Holopins: <p>
-    
   [![@rohits05's Holopin board](https://holopin.me/rohits05)](https://holopin.io/@rohits05)
-
-  ###### <p align='center'> GitHub Analytics: </p>
-<table style="width:100%">
-  <tr>
-    <td> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=rohits05&show_icons=true&theme=tokyonight&count_private=false" alt="rohits05" /> &nbsp; &nbsp; &nbsp;</td>
-   &nbsp; &nbsp; 
-    <td> &nbsp; &nbsp; &nbsp; <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohits05&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"> &nbsp; &nbsp; &nbsp;
-</td> 
-  </tr>
-</table>
 </details>
+
+<details>
+  <summary>🚀 GitHub Analytics</summary>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohits05&show_icons=true&theme=dark&count_private=false&bg_color=DEG,20232a,273849&hide_border=true" alt="GitHub Stats" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohits05&hide=html&hide_title=true&layout=compact&langs_count=6&theme=dark&bg_color=DEG,20232a,273849&hide_border=true" alt="Top Languages" height="180px">
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohits05&theme=dark&background=DEG,20232a,273849" alt="Streak Stats" height="180px">
+    <img src="https://github-profile-trophy.vercel.app/?username=rohits05&theme=nord&margin-w=15&margin-h=15&column=7" alt="Trophies" height="180px">
+  </p>
+</details>
+<hr>
+
+### ~ 🔥 Forge Ahead, Strive for Innovation, and Unleash Limitless Potential!
